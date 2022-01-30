@@ -237,6 +237,12 @@
             "name": "Vanish Test",
             "entrypoint": "org.spongepowered.test.vanish.VanishTest",
             "description": "Vanish Testing"
+        },
+        {
+            "id": "blockstate-test",
+            "name": "BlockState Test",
+            "entrypoint": "org.spongepowered.test.blockstate.BlockStateTest",
+            "description": "BlockState Testing"
         }
     ]
 }
